@@ -1,2 +1,2 @@
-# LanguageRecognitionInC
-This project is about language recognition that is written in C
+# Language Determination
+This project is about language determination that is written in C
